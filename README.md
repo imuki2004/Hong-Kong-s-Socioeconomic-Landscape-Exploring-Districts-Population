@@ -1,5 +1,5 @@
 # Hong-Kong-s-Socioeconomic-Landscape-Exploring-Districts-Population
-In my data visualization project, I focused on exploring Hong Kong's socioeconomic landscape by analyzing the population distribution across different districts. I utilized Tableau for data visualization and Excel for data preprocessing and cleaning to gain meaningful insights into the demographics and socioeconomic characteristics of each district.
+In this data visualization project, me and my fellows focused on exploring Hong Kong's socioeconomic landscape by analyzing the population distribution across different districts. We utilized Tableau for data visualization and Excel for data preprocessing and cleaning to gain meaningful insights into the demographics and socioeconomic characteristics of each district.
 
 # Challenges:
 
@@ -22,3 +22,16 @@ Data Granularity: The availability of detailed data at a more granular level, su
 Data Updates: As the socioeconomic landscape of Hong Kong evolves over time, the dataset used for the project might become outdated. It is essential to regularly update the data to maintain the accuracy and relevance of the analysis.
 
 Data Availability: Depending on the specific socioeconomic variables of interest, some data may not be readily available or accessible. This limitation might have impacted the comprehensiveness of the analysis or required alternative data sources or estimation methods.
+
+# Data Sources:
+
+Data sources were taken from Hong Kong Geodata store (https://geodata.gov.hk/gs/) :
+
+1. https://geodata.gov.hk/gs/view-dataset?uuid=7e5f6d02-30ff-406e-b298-1cce8c2adb28&si
+dx=0
+2. https://geodata.gov.hk/gs/view-dataset?uuid=e7c0c11c-207d-4acc-aa29-1faa6559b416&s
+idx=0
+3. https://geodata.gov.hk/gs/view-dataset?uuid=e55b1a7d-e52e-4f1a-903f-ab2edb93ebbb&sidx=0
+4. https://geodata.gov.hk/gs/view-dataset?uuid=c669790c-a633-4bc4-88a1-3d29e146b792&sidx=0
+5. https://geodata.gov.hk/gs/view-dataset?uuid=1fe3ee7d-41ad-4249-abd6-f67932cdfa54&sidx=0
+6. https://geodata.gov.hk/gs/view-dataset?uuid=6a2185d4-212a-49bb-879c-0765400e137a&sidx=0
