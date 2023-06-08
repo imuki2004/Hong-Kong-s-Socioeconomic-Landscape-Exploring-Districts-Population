@@ -1,5 +1,5 @@
 # Hong-Kong-s-Socioeconomic-Landscape-Exploring-Districts-Population
-In this data visualization project, me and my fellows focused on exploring Hong Kong's socioeconomic landscape by analyzing the population distribution across different districts. We utilized Tableau for data visualization and Excel for data preprocessing and cleaning to gain meaningful insights into the demographics and socioeconomic characteristics of each district.
+In this data visualization project, me and my fellows focused on exploring Hong Kong's socioeconomic landscape by analyzing the population distribution across different districts. We utilized Tableau for data visualization and Excel for data preprocessing and cleaning to gain meaningful insights into the demographics and socioeconomic characteristics of each district. You can download twbx file to view the project in Tableau.
 
 # Challenges:
 
