@@ -3,7 +3,7 @@ In this data visualization project, me and my fellows focused on exploring Hong 
 
 # Challenges:
 
-Data Collection: Acquiring accurate and up-to-date data on population demographics for each district in Hong Kong posed a challenge. I had to ensure the reliability and consistency of the data sources to obtain accurate results. Unfortunatelly, only data from 2011 and 2016 were available. Datasets were taken from the Hong Kong Geodata store.
+Data Collection: Acquiring accurate and up-to-date data on population demographics for each district in Hong Kong posed a challenge. We had to ensure the reliability and consistency of the data sources to obtain accurate results. Unfortunatelly, only data from 2011 and 2016 were available. Datasets were taken from the Hong Kong Geodata store.
 
 Data Cleaning and Preprocessing: The initial dataset required extensive cleaning in Excel to handle missing values, inconsistent formats, and other data quality issues. I applied techniques such as deleting missing values, removing duplicate records, and standardizing variables to ensure data integrity.
 
